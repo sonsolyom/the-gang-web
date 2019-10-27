@@ -60,7 +60,7 @@ h4 {
     background-size: 100%;
     width: 363px;
     height: 344px;
-    position: absolute; top: 10%; right: 15%;
+    position: absolute; top: 10%; right: 10%;
     transform: rotate(15deg);
     z-index: -2;
 }
